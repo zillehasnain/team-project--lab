@@ -1,3 +1,1 @@
-# Team Project Outline
-1. Collaborator A Feature
-2. Collaborator B Feature
+# Final Team Project Outline - B's version is best./cleanup.sh Collaborator A Feature. Collaborator B Feature
